@@ -1,0 +1,64 @@
+{
+  "inquiries": [
+    {
+      "id": "inq-1766",
+      "timestamp": "2026-09-01T12:17:51.766Z",
+      "fullName": "asiamah micahel",
+      "email": "1234@mail.com",
+      "phone": "0000000000",
+      "propertyInterest": "General Portfolio",
+      "propertySlug": null,
+      "budgetRange": "Confidential / Family Office Advisory",
+      "acquisitionTimeframe": "3 – 6 Months",
+      "priorityTier": "Standard VIP",
+      "status": "New",
+      "specialRequirements": "floor 2",
+      "ndaAcknowledged": true
+    },
+    {
+      "id": "inq-9481",
+      "timestamp": "2026-09-01T10:15:32.000Z",
+      "fullName": "Sir Alistair Sterling",
+      "email": "a.sterling@sterling-holdings.co.uk",
+      "phone": "+44 20 7946 0912",
+      "propertyInterest": "The Marquis Brickell",
+      "propertySlug": "the-marquis-brickell",
+      "budgetRange": "$20M+ (Trophy / Penthouses)",
+      "acquisitionTimeframe": "Immediate Occupancy (0–30 Days)",
+      "priorityTier": "Tier 1 Ultra-High-Net-Worth (UHNW)",
+      "status": "Showing Scheduled",
+      "specialRequirements": "Requires private helicopter transfer to Level 58 sky pad and 120ft yacht slip verification.",
+      "ndaAcknowledged": true
+    },
+    {
+      "id": "inq-9482",
+      "timestamp": "2026-09-01T09:42:18.000Z",
+      "fullName": "Elena Rostova",
+      "email": "erostova@genevacapital.ch",
+      "phone": "+41 22 819 4000",
+      "propertyInterest": "Vela Star Island",
+      "propertySlug": "vela-star-island",
+      "budgetRange": "$20M+",
+      "acquisitionTimeframe": "Pre-Construction (2026/2027 Delivery)",
+      "priorityTier": "Tier 1 Ultra-High-Net-Worth (UHNW)",
+      "status": "New",
+      "specialRequirements": "Confidential advisory for private family compound on Star Island.",
+      "ndaAcknowledged": true
+    },
+    {
+      "id": "inq-9483",
+      "timestamp": "2026-09-01T08:14:05.000Z",
+      "fullName": "Marcus & Jacqueline Vance",
+      "email": "marcus.vance@vancepartners.com",
+      "phone": "+1 (212) 555-0188",
+      "propertyInterest": "The Palma Coconut Grove",
+      "propertySlug": "the-palma-grove",
+      "budgetRange": "$5M – $10M USD",
+      "acquisitionTimeframe": "3 to 6 Months",
+      "priorityTier": "Tier 2 Qualified Acquirer",
+      "status": "In Review",
+      "specialRequirements": "Inquiring about gallery wall heights and botanical courtyard security.",
+      "ndaAcknowledged": true
+    }
+  ]
+}

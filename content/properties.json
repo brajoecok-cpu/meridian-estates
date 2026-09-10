@@ -1,0 +1,353 @@
+{
+  "properties": [
+    {
+      "slug": "the-marquis-brickell",
+      "name": "The Marquis Brickell",
+      "tagline": "Unrivaled Architectural Heights Above Biscayne Bay",
+      "neighborhood": "Brickell Financial District",
+      "neighborhoodSlug": "brickell",
+      "unitType": "Penthouses & Sky Estates",
+      "priceFrom": 6800000,
+      "completionDate": "Q4 2026",
+      "status": "Under Construction",
+      "architect": "Arquitectonica & Studio Liaigre",
+      "interiorDesigner": "Yabu Pushelberg",
+      "totalResidences": 42,
+      "heroPoster": "/images/im1.jpg",
+      "heroVideoMp4": "/videos/hero-skyline.mp4",
+      "shortDescription": "A soaring 64-story glass monolith defining the Miami skyline, offering 360-degree water vistas and private sky garages.",
+      "overview": "Rising majestically over Brickell Avenue, The Marquis combines monumental structural engineering with whisper-quiet, private sanctuary living. Every residence occupies a full or half-floor footprint, complete with bespoke Italian millwork, 12-foot floor-to-ceiling acoustic glass, and sweeping terraces overlooking Biscayne Bay and the Atlantic ocean.",
+      "amenitiesHighlight": [
+        "Private Helipad Transfer Service",
+        "Cantilevered Sky Pool on Level 58",
+        "Sommelier-Curated Private Wine Vault",
+        "24/7 White-Glove Biometric Concierge"
+      ],
+      "unitFeatures": {
+        "bedrooms": "3 - 5 Bedrooms",
+        "bathrooms": "3.5 - 6.5 Baths",
+        "kitchen": "Poliform & Gaggenau Atelier",
+        "squareFootage": "4,200 - 8,500 sq ft"
+      },
+      "sections": [
+        {
+          "id": "living-volume",
+          "title": "The Grand Living Volume",
+          "subtitle": "Level 52 • Double-Height Vistas Over Biscayne Bay",
+          "description": "Dramatic 24-foot soaring ceilings framed by bronze mullions and ultra-clear acoustic glass. Fluted French limestone walls and wide-plank European white oak underfoot create an atmosphere of effortless grandeur.",
+          "poster": "/images/im3.jpg",
+          "videoMp4": "/videos/living-volume.mp4",
+          "specs": [
+            { "label": "Ceiling Height", "value": "24 ft (7.3m)" },
+            { "label": "Glazing", "value": "Triple-Glazed Acoustic Low-E" },
+            { "label": "Flooring", "value": "Custom Fluted Silver Travertine" }
+          ]
+        },
+        {
+          "id": "culinary-atelier",
+          "title": "The Culinary Atelier",
+          "subtitle": "Precision Craftsmanship by Poliform & Gaggenau",
+          "description": "Sculpted monolithic island in honed Calacatta Monet marble. Concealed cabinetry with automated tactile touch latches, integrated refrigeration, and a dedicated temperature-zoned sommelier alcove.",
+          "poster": "/images/im5.webp",
+          "videoMp4": "/videos/culinary-atelier.mp4",
+          "specs": [
+            { "label": "Cabinetry", "value": "Bespoke Poliform Smoked Eucalyptus" },
+            { "label": "Appliances", "value": "Full Gaggenau 400 Series Suite" },
+            { "label": "Stone", "value": "Honed Calacatta Monet Bookmatched" }
+          ]
+        },
+        {
+          "id": "master-sanctuary",
+          "title": "The Master Sanctuary",
+          "subtitle": "East-Facing Sunrise Suite Over Atlantic Horizon",
+          "description": "A secluded wing featuring dual bespoke dressing suites with integrated glass vitrines, a midnight refreshment bar, and a freestanding monolithic soaking tub positioned at the perimeter glass.",
+          "poster": "/images/im6.webp",
+          "videoMp4": "/videos/master-sanctuary.mp4",
+          "specs": [
+            { "label": "Suite Area", "value": "1,450 sq ft" },
+            { "label": "Primary Bath", "value": "Dornbracht Platinum & Roman Travertine" },
+            { "label": "Closets", "value": "Custom Poliform Walk-in Dressing Suites" }
+          ]
+        },
+        {
+          "id": "sky-terrace",
+          "title": "The Sunset Sky Oasis",
+          "subtitle": "Cantilevered Private Plunge Pool & Summer Kitchen",
+          "description": "Over 1,800 square feet of seamless indoor-outdoor living. Features a heated glass-bottom infinity plunge pool, automated wind-deflection screens, and a marine-grade stainless outdoor kitchen.",
+          "poster": "/images/im13.jpg",
+          "videoMp4": "/videos/sunset-estate.mp4",
+          "specs": [
+            { "label": "Terrace Depth", "value": "18 ft Deep Cantilever" },
+            { "label": "Plunge Pool", "value": "Heated Glass-Bottom Infinity Edge" },
+            { "label": "Outdoor Kitchen", "value": "Kalamazoo Artisan Grill System" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "aura-biscayne",
+      "name": "Aura Biscayne",
+      "tagline": "Pure Waterfront Serenity in Edgewater",
+      "neighborhood": "Edgewater Bay",
+      "neighborhoodSlug": "edgewater",
+      "unitType": "Waterfront Sky Villas",
+      "priceFrom": 4900000,
+      "completionDate": "Spring 2027",
+      "status": "Pre-Construction",
+      "architect": "Zaha Hadid Architects",
+      "interiorDesigner": "Kelly Wearstler",
+      "totalResidences": 56,
+      "heroPoster": "/images/im2.jpg",
+      "heroVideoMp4": "/videos/hero-waterfront.mp4",
+      "shortDescription": "Flowing organic architecture sculpted directly along the bay shoreline with private deep-water marina access.",
+      "overview": "Aura Biscayne reimagines waterfront living with sinuous curves and open-air loggias that catch the ocean breezes. Each residence features flow-through layouts with both sunrise ocean views and sunset city skyline horizons.",
+      "amenitiesHighlight": [
+        "Private 28-Slip Superyacht Marina",
+        "Hydrotherapy Thalassotherapy Spa",
+        "Private Residents' Michelin-Star Dining Club",
+        "Chauffeured Riva Aquarama Boat Service"
+      ],
+      "unitFeatures": {
+        "bedrooms": "4 - 6 Bedrooms",
+        "bathrooms": "4.5 - 7.5 Baths",
+        "kitchen": "Bespoke Minimalist Chef's Kitchen",
+        "squareFootage": "5,100 - 9,800 sq ft"
+      },
+      "sections": [
+        {
+          "id": "organic-lounge",
+          "title": "The Waterfront Pavilion",
+          "subtitle": "Continuous Glass Curve Meeting the Waterline",
+          "description": "Walls of continuous glass curve gently to capture the changing hues of Biscayne Bay from dawn until twilight. Hand-rubbed plaster finishes and warm teak accents bring nautical grace into every corner.",
+          "poster": "/images/im10.jpg",
+          "videoMp4": "/videos/ocean-view.mp4",
+          "specs": [
+            { "label": "Exposure", "value": "Direct East & North Bayfront" },
+            { "label": "Finishes", "value": "Venetian Plaster & Hand-Rubbed Bronze" },
+            { "label": "Ceiling Height", "value": "11 ft Finished" }
+          ]
+        },
+        {
+          "id": "marina-terrace",
+          "title": "The Marina Vista Terrace",
+          "subtitle": "Direct Line-of-Sight to Private Yacht Slips",
+          "description": "Deep sheltered terraces designed for year-round entertaining. Step directly down to the private marina promenade or relax while watching yachts cruise along the Intracoastal.",
+          "poster": "/images/im12.jpg",
+          "videoMp4": "/videos/marina-slip.mp4",
+          "specs": [
+            { "label": "Slip Accommodations", "value": "Up to 120-foot Vessels" },
+            { "label": "Decking", "value": "Sustainably Harvested Ipe Wood" },
+            { "label": "Privacy", "value": "Full Verdant Living Wall Screening" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "the-palma-grove",
+      "name": "The Palma Coconut Grove",
+      "tagline": "Botanical Splendor Meets Modernist Architecture",
+      "neighborhood": "Coconut Grove",
+      "neighborhoodSlug": "coconut-grove",
+      "unitType": "Canopy Estates & Garden Penthouses",
+      "priceFrom": 7900000,
+      "completionDate": "Immediate Occupancy",
+      "status": "Immediate Occupancy",
+      "architect": "Bjarke Ingels Group (BIG)",
+      "interiorDesigner": "Meyer Davis",
+      "totalResidences": 28,
+      "heroPoster": "/images/im15.webp",
+      "heroVideoMp4": "/videos/hero-grove.mp4",
+      "shortDescription": "Nestled under ancient banyan canopies, these low-density modernist estates blend lush tropical landscapes with uncompromising privacy.",
+      "overview": "The Palma Coconut Grove is an exclusive enclave of 28 boutique estates surrounded by lush botanical gardens. Designed for discerning art collectors and privacy seekers, each home features expansive gallery walls and private courtyard gardens.",
+      "amenitiesHighlight": [
+        "Private Gated 5-Acre Botanical Reserve",
+        "Biometric Underground Private Garages",
+        "Heated Olympic-Length Lap Pool",
+        "On-Demand Private Sommelier & Executive Chef"
+      ],
+      "unitFeatures": {
+        "bedrooms": "5 - 7 Bedrooms",
+        "bathrooms": "6.5 - 9.5 Baths",
+        "kitchen": "Dual Commercial-Grade Kitchens",
+        "squareFootage": "8,000 - 15,000 sq ft"
+      },
+      "sections": [
+        {
+          "id": "gallery-atrium",
+          "title": "The Art Collector's Atrium",
+          "subtitle": "Museum-Grade Lighting & Monumental Wall Dimensions",
+          "description": "Engineered specifically for significant contemporary art collections, featuring UV-filtering glass, precision climate-humidity control, and reinforced exhibition walls.",
+          "poster": "/images/im16.jpg",
+          "videoMp4": "/videos/details-montage.mp4",
+          "specs": [
+            { "label": "Wall Span", "value": "Up to 48 Continuous Feet" },
+            { "label": "Lighting", "value": "Flos Museum Series Micro-Optics" },
+            { "label": "HVAC", "value": "Dual HEPA & Humidity Modulation" }
+          ]
+        },
+        {
+          "id": "banyan-courtyard",
+          "title": "The Banyan Courtyard",
+          "subtitle": "Private Outdoor Sanctuary Framed by Native Flora",
+          "description": "An intimate private courtyard featuring water walls, mature native orchids, and outdoor fireplace lounges crafted from hand-cut Oolite stone.",
+          "poster": "/images/im17.jpg",
+          "videoMp4": "/videos/grand-entrance.mp4",
+          "specs": [
+            { "label": "Landscaping", "value": "Raymond Jungles Design" },
+            { "label": "Water Feature", "value": "Zero-Edge Reflective Basin" },
+            { "label": "Security", "value": "Thermal Perimeter Sensors" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vela-star-island",
+      "name": "Vela Star Island",
+      "tagline": "The Pinnacle of Ultra-Exclusive Island compounds",
+      "neighborhood": "Star Island & Miami Beach",
+      "neighborhoodSlug": "miami-beach",
+      "unitType": "Custom Island Compounds",
+      "priceFrom": 18500000,
+      "completionDate": "Q1 2027",
+      "status": "Pre-Construction",
+      "architect": "SAOTA Architecture",
+      "interiorDesigner": "Studio Liaigre Paris",
+      "totalResidences": 6,
+      "heroPoster": "/images/im18.jpg",
+      "heroVideoMp4": "/videos/hero-island.mp4",
+      "shortDescription": "Six ultra-rare gated compounds on Miami's most legendary private island, featuring 200 feet of deep-water bay frontage.",
+      "overview": "Vela represents the absolute zenith of South Florida luxury. Set behind a 24-hour guard-gated causeway, each compound features private staff quarters, security outposts, and dockage capable of accommodating mega-yachts with quick open ocean access.",
+      "amenitiesHighlight": [
+        "200-Foot Deep-Water Yacht Slip",
+        "Subterranean 10-Car Showroom",
+        "Private Wellness Spa with Cryotherapy Chamber",
+        "Dedicated 24/7 Armed Island Security Detail"
+      ],
+      "unitFeatures": {
+        "bedrooms": "6 - 9 Bedrooms",
+        "bathrooms": "8.5 - 12 Baths",
+        "kitchen": "Triple Bulthaup Kitchen Layouts",
+        "squareFootage": "12,000 - 25,000 sq ft"
+      },
+      "sections": [
+        {
+          "id": "island-great-room",
+          "title": "The Oceanfront Great Room",
+          "subtitle": "Zero-Post Corner Openings Over Miami Skyline",
+          "description": "Massive motorized pocketing glass doors vanish entirely into the architecture, erasing the distinction between interior luxury and the sparkling turquoise waters of Biscayne Bay.",
+          "poster": "/images/im11.jpg",
+          "videoMp4": "/videos/sunset-dusk.mp4",
+          "specs": [
+            { "label": "Door Clearance", "value": "40-Foot Continuous Vanishing Pocket" },
+            { "label": "Ceilings", "value": "Custom Architectural Teak Slats" },
+            { "label": "Audio", "value": "Invisible Sonance Architectural Series" }
+          ]
+        }
+      ]
+    }
+  ],
+  "neighborhoods": [
+    {
+      "slug": "brickell",
+      "name": "Brickell Financial District",
+      "tagline": "The Manhattan of the South with Subtropical Glamour",
+      "description": "Miami's pulsing epicenter of global finance, Michelin-starred dining, and soaring architectural towers overlooking Biscayne Bay.",
+      "heroPoster": "/images/im1.jpg",
+      "heroVideoMp4": "/videos/building-tour.mp4",
+      "keyFeatures": [
+        "Brickell City Centre luxury retail",
+        "Michelin-starred dining corridors",
+        "Private financial clubs & rooftop lounges",
+        "Direct water taxi & private marina docks"
+      ],
+      "propertySlugs": ["the-marquis-brickell"]
+    },
+    {
+      "slug": "edgewater",
+      "name": "Edgewater Bay",
+      "tagline": "Breathtaking Waterfront Living & Artistic Vitality",
+      "description": "Directly facing Biscayne Bay and adjacent to the Design District and Wynwood, Edgewater offers prime shoreline residences with uninhibited maritime views.",
+      "heroPoster": "/images/im2.jpg",
+      "heroVideoMp4": "/videos/hero-waterfront.mp4",
+      "keyFeatures": [
+        "Margaret Pace Park waterfront jogging & tennis",
+        "Minutes to Miami Design District luxury flagships",
+        "Deep-water Intracoastal access",
+        "Culinary hotspots & contemporary galleries"
+      ],
+      "propertySlugs": ["aura-biscayne"]
+    },
+    {
+      "slug": "coconut-grove",
+      "name": "Coconut Grove",
+      "tagline": "Historic Charm, Tropical Canopies & Bohemian Luxury",
+      "description": "Miami's oldest and most enchanting neighborhood, defined by lush canopy-lined roads, prestigious sailing clubs, and private gated sanctuaries.",
+      "heroPoster": "/images/im15.webp",
+      "heroVideoMp4": "/videos/neighborhoods-aerial.mp4",
+      "keyFeatures": [
+        "Biscayne Bay Yacht Club & Coral Reef Yacht Club",
+        "Top-ranked private academic institutions",
+        "Cocowalk artisan boutiques & open-air bistros",
+        "Ancient banyan and tropical nature reserves"
+      ],
+      "propertySlugs": ["the-palma-grove"]
+    },
+    {
+      "slug": "miami-beach",
+      "name": "Miami Beach & Star Island",
+      "tagline": "Legendary Oceanfront Estates & Island Seclusion",
+      "description": "The world's most recognizable luxury playground, offering guarded private islands, white-sand Atlantic beaches, and international cultural events.",
+      "heroPoster": "/images/im18.jpg",
+      "heroVideoMp4": "/videos/hero-island.mp4",
+      "keyFeatures": [
+        "Guarded 24/7 security causeway access",
+        "Superyacht deep-water berths",
+        "Immediate ocean access without fixed bridges",
+        "Art Basel & world-class private clubs"
+      ],
+      "propertySlugs": ["vela-star-island"]
+    }
+  ],
+  "amenities": [
+    {
+      "id": "sky-pools",
+      "title": "Cantilevered Sky Pools & Terraces",
+      "category": "Sky Lounge",
+      "tagline": "Suspended between the heavens and the ocean horizon",
+      "description": "Heated acrylic and glass-bottom pools suspended hundreds of feet above the bay, accompanied by private cabanas, dedicated towel attendants, and twilight mixology service.",
+      "poster": "/images/im13.jpg",
+      "videoMp4": "/videos/sunset-estate.mp4",
+      "features": ["Zero-edge perimeter overflow", "Private VIP cabanas with smart media", "Underwater sound system", "Sunset cocktail lounge"]
+    },
+    {
+      "id": "private-marinas",
+      "title": "Deep-Water Private Marinas",
+      "category": "Private Marina",
+      "tagline": "Seamless nautical departures directly from your residence",
+      "description": "Full-service private slips accommodating superyachts up to 150 feet with on-demand fueling, dockmaster support, and private yacht tender provisions.",
+      "poster": "/images/im12.jpg",
+      "videoMp4": "/videos/marina-slip.mp4",
+      "features": ["Shore power & high-speed fueling", "Dedicated full-time dockmaster", "Private charter booking assistance", "Direct no-bridge ocean access"]
+    },
+    {
+      "id": "wellness-spas",
+      "title": "Holistic Hydrotherapy & Wellness Spas",
+      "category": "Wellness & Spa",
+      "tagline": "A restorative sanctuary for mind, body, and vitality",
+      "description": "Custom thermal suites featuring Finnish cedar saunas, Himalayan salt relaxation rooms, cold plunge pools, and private treatment suites serviced by premier therapists.",
+      "poster": "/images/im8.jpg",
+      "videoMp4": "/videos/amenity-tour.mp4",
+      "features": ["Cryotherapy & hyperbaric suites", "Aromatherapy steam rooms", "Private Pilates & yoga pavilion", "Vitality nutrition juice bar"]
+    },
+    {
+      "id": "sommelier-vaults",
+      "title": "Curated Wine Vaults & Private Dining",
+      "category": "Culinary & Wine",
+      "tagline": "Uncompromising epicurean excellence in complete privacy",
+      "description": "Climate-controlled private cellar lockers with master sommelier curation, tasting tables carved from single walnut slabs, and catering kitchens for guest celebrity chefs.",
+      "poster": "/images/im7.jpeg",
+      "videoMp4": "/videos/details-montage.mp4",
+      "features": ["Dual-zone temperature & humidity control", "Private sommelier consultation", "Commercial-grade chef staging kitchen", "Intimate 16-seat banquet salon"]
+    }
+  ]
+}
